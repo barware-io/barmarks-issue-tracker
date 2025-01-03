@@ -1,4 +1,9 @@
-# Welcome to the Barware.io GitHub Issue Tracker! 🎉🐾
+<p align="center">
+    <img src="https://barware.io/_next/static/media/barmarks.546cfcde.png" alt="Logo" height="100px">
+</p>
+
+
+# Welcome to the BarMarks GitHub Issue Tracker! 🎉🐾
 
 Hey there! 👋 This is where your feedback becomes part of the magic. ✨
 
